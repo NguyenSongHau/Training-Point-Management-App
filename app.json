@@ -1,0 +1,15 @@
+{
+   "expo": {
+      "name": "Training Point Management",
+      "slug": "training_point_management",
+      "version": "1.0.0",
+      "assetBundlePatterns": ["**/*"],
+      "plugins": ["expo-font"],
+      "android": {
+         "package": "com.fh.tpm"
+      },
+      "ios": {
+         "bundleIdentifier": "com.fh.tpm"
+      }
+   }
+}
